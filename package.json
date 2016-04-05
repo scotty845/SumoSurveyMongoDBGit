@@ -1,0 +1,29 @@
+{
+  "name": "sumosurveymongo",
+  "version": "1.0.0",
+  "description": "Make Surveys With Questions and Answers Take Surveys With Questions and Answers",
+  "main": "sumosurveyserver.js",
+  "dependencies": {
+    "body-parser": "^1.14.2",
+    "cookie-parser": "^1.4.1",
+    "debug": "^2.2.0",
+    "express": "^4.13.3",
+    "express-session": "^1.13.0",
+    "express-validator": "^2.19.1",
+    "mongojs": "^2.3.0",
+    "q": "^1.4.1",
+    "underscore": "^1.8.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node sumosurveyserver"
+  },
+  "keywords": [
+    "Node.js",
+    "Express",
+    "MongoDB",
+    "AngularJS"
+  ],
+  "author": "Scott Londer",
+  "license": "ISC"
+}

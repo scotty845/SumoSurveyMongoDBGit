@@ -1,14 +1,14 @@
 
-Demo on Heroku
+Demo on Heroku: https://lit-springs-62782.herokuapp.com/#/SumoSurvey
 
-To make surveys on Heroku can use two different users to login and Make Surveys
+To make surveys on Heroku can use two different users to login and Make Surveys With Questions and Answers
 username: hhanzo password: sword
 and
 username mmusashi password: blade
-demo: https://lit-springs-62782.herokuapp.com/#/SumoSurvey
 
 
 
+Description Of Project:
 
 Sumo Survey MongoDB
 Description

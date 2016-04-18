@@ -5,8 +5,8 @@ To make surveys on Heroku can use two different users to login and Make Surveys
 username: hhanzo password: sword
 and
 username mmusashi password: blade
-Demo:
-https://lit-springs-62782.herokuapp.com/#/SumoSurvey
+demo: https://lit-springs-62782.herokuapp.com/#/SumoSurvey
+
 
 
 

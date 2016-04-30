@@ -122,3 +122,34 @@ View Survey Results
 a)Total Number Of Votes By Question
 b)Total Number Of Votes Per Answer
 Logout
+
+
+
+Tests 
+
+Mobile Device Responsive Design Tests
+
+Mobile Phones Tested 
+1)Samsung Model Number SM-G360P
+AKA Samsung Galaxy Core Prime LTE SM-G360P
+
+OS: Android Version 4.4
+
+Tested In Browsers On Device
+Firefox 45.0.2
+Firefox For Android
+
+Chrome 49.0.2623.105
+Chrome For Android
+
+2)Moto E (2nd generation ) 
+
+OS: Android version 5.1
+
+Tested In Browsers On Device
+Chrome 50.0.2661.89
+Chrome For Android
+
+Firefox 46.0
+Firefox For Android
+

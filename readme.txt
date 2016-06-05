@@ -1,10 +1,14 @@
 
 Demo on Heroku: https://lit-springs-62782.herokuapp.com/#/SumoSurvey
 
-To make surveys on Heroku can use two different users to login and Make Surveys With Questions and Answers
-username: hhanzo password: sword
-and
-username mmusashi password: blade
+To make surveys on Heroku can use demo user to
+  Demo User Info: username mmusashi password: blade
+  Login and Make Surveys With Questions and Answers
+  View Results To Your Survey Questions and Answers Number Of Votes Per Answer Per Question and  Percentage 
+  Edit Survey Questions and Answers
+  Add Survey Questions Add Survey Answers
+  Delete Survey Questions, Delete Survey Answers
+
 
 
 

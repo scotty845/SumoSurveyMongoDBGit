@@ -36,10 +36,12 @@ Node.js
 Express
 Node.js MongoDB implemented with node module mongojs
 Underscore
-Bootstrap For Responsive Design on Desktop and Mobile Devices See Tests Below
+JavaScript
 
 Front End Display and Test
-AngularJS
+AngularJS, HTML, JavaScript
+Bootstrap For Responsive Design on Desktop and Mobile Devices See Tests Below
+
 Tested On:
 Mozilla Firefox 44.0.2 
 Google Chrome	49.0.2623.87 (Official Build) m (32-bit)

@@ -13,7 +13,7 @@ To make surveys on Heroku can use demo user to
 
 
 Description Of Project:
-
+ 
 Sumo Survey MongoDB
 Description
 
@@ -36,6 +36,7 @@ Node.js
 Express
 Node.js MongoDB implemented with node module mongojs
 Underscore
+Bootstrap For Responsive Design on Desktop and Mobile Devices See Tests Below
 
 Front End Display and Test
 AngularJS
